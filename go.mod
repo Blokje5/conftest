@@ -25,7 +25,7 @@ require (
 	github.com/shteou/go-ignore v0.3.0
 	github.com/spf13/cobra v0.0.7
 	github.com/spf13/viper v1.7.1
-	github.com/tmccombs/hcl2json v0.3.1
+	github.com/tmccombs/hcl2json v0.3.2
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	olympos.io/encoding/edn v0.0.0-20200308123125-93e3b8dd0e24
 )
