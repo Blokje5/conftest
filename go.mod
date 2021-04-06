@@ -3,7 +3,7 @@ module github.com/open-policy-agent/conftest
 go 1.13
 
 require (
-	cuelang.org/go v0.0.15
+	cuelang.org/go v0.3.0
 	github.com/BurntSushi/toml v0.3.1
 	github.com/KeisukeYamashita/go-vcl v0.4.0
 	github.com/basgys/goxml2json v1.1.0
@@ -23,7 +23,7 @@ require (
 	github.com/open-policy-agent/opa v0.25.2
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/shteou/go-ignore v0.3.0
-	github.com/spf13/cobra v0.0.7
+	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.7.1
 	github.com/tmccombs/hcl2json v0.3.1
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
